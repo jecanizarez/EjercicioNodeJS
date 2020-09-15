@@ -1,0 +1,23 @@
+{
+  "name": "ejercicionodejs",
+  "version": "1.0.0",
+  "description": "ejercicio node js",
+  "main": "Ejercicio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Ejercicio.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jecanizarez/EjercicioNodeJS.git"
+  },
+  "author": "Juan Canizarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jecanizarez/EjercicioNodeJS/issues"
+  },
+  "homepage": "https://github.com/jecanizarez/EjercicioNodeJS#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
